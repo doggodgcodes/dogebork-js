@@ -4,6 +4,22 @@ A less annoying JS library.
 ***
 
 **RELEASES**
+v2.0
+- New
+  - OS Time
+    - ```javascript
+      ostime()
+      ```
+      Fetch the time.
+  - RNG
+    - ```javascript
+      rng()
+      ```
+      Works like
+      ```javascript
+      Math.random()
+      ```
+      But it does not return float values.
 
 v1.0
 - Basic Features

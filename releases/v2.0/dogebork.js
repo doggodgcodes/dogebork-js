@@ -59,6 +59,3 @@ function rng(num1, num2) {
   s = (s * 9301 + 49297 + num1) % maxed
   return s + num1
 }
-
-const store = rng(5, 12);
-console.log(store);

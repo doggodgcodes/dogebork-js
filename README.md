@@ -4,6 +4,23 @@ A less annoying JS library.
 ***
 
 **RELEASES**
+
+v3.0
+- New
+  - RNG
+    - Uses safer alternative, older version is LCG
+      ```javascript
+      rng()
+      ```
+  - LCG
+    - The previous
+      ```javascript
+      rng()
+      ```
+      changed to
+      ```javascript
+      lcg()
+      ```
 v2.0
 - New
   - OS Time

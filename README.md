@@ -3,7 +3,7 @@ A less annoying JS library.
 
 ***
 
-**Installation (why)**
+**Clone**
 
 1. Clone the repository to your local machine or press the *green code* button.
 

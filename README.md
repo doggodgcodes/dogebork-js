@@ -3,6 +3,18 @@ A less annoying JS library.
 
 ***
 
+**Installation (why)**
+
+1. Clone the repository to your local machine or press the *green code* button.
+
+   ```bash
+   git clone https://github.com/doggodgcodes/dogebork-js.git
+   cd dogebork-js
+   ```
+   ![Repo Image](https://doggodgcodes.github.io/assets/github-download-tutorial.jpg)
+
+***
+
 **RELEASES**
 
 v3.0

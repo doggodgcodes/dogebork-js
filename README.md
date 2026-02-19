@@ -15,8 +15,28 @@ A less annoying JS library.
 
 ***
 
-**RELEASES**
+**Quick Info***
+This JavaScript library consists of mostly function shorteners, so if that is not helpful towards your project, don't use this.
 
+**RELEASES**
+v4.0
+- New
+  - Graphics Context
+    - The graphics context is gone due to the canvas variable not existing. Having a canvas ID be specified by your library to always use does not provide enough naming freedom for a JavaScript ID.
+  - RNG
+    - Add mult argument to better fix between arrays and general numbers
+      ```javascript
+      rng(1, 10, myArray.length)
+      ```
+  - Add Element
+    - ```javascript
+      addElem()
+      ```
+      Works like
+      ```javascript
+      document.createElement()
+      ```
+      But shorter.
 v3.0
 - New
   - RNG
@@ -27,7 +47,7 @@ v3.0
   - LCG
     - The previous
       ```javascript
-      rng()
+      lcg()
       ```
       changed to
       ```javascript

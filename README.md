@@ -38,7 +38,7 @@ v4.0
       ```javascript
       document.createElement()
       ```
-      But shorter.
+    - But shorter.
 v3.0
 - New
   - RNG

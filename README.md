@@ -19,6 +19,32 @@ A less annoying JS library.
 This JavaScript library consists of mostly function shorteners, so if that is not helpful towards your project, don't use this.
 
 **RELEASES**
+v5.0
+- Update
+  - In order to access functions, using
+  - ```javascript
+      rng(1, 10)
+      ```
+  - will not work. Instead, use
+  - ```javascript
+      Dogebork.rng(1, 10)
+      ```
+  - or
+  - ```javascript
+      Doge.rng(1, 10)
+      ```
+  - . This applies to every function, and may break any older code using Dogebork. No one probably used the older versions though.
+- New
+  - doggify
+    - A pretty useless function unless you want a dog background on your webpage!
+    - ```javascript
+      Dogebork.doggify()
+      ```
+  - Button On Click
+    - A detector if a button is clicked. Useful when creating clicker games.
+    - ```javascript
+      Dogebork.buttonOnClick("myButton")
+      ```
 v4.0
 - New
   - Extra Text

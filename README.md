@@ -33,7 +33,7 @@ v5.0
   - ```javascript
       Doge.rng(1, 10)
       ```
-  - . This applies to every function, and may break any older code using Dogebork. No one probably used the older versions though.
+  - . This applies to every function, and may break any older code using Dogebork. No one probably used the older versions though. Using Doge or Dogebork when calling a function is interchangeable.
 - New
   - doggify
     - A pretty useless function unless you want a dog background on your webpage!
@@ -45,6 +45,7 @@ v5.0
     - ```javascript
       Dogebork.buttonOnClick("myButton")
       ```
+    - You also don't have to use a seperate function to find the ID.
 v4.0
 - New
   - Extra Text

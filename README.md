@@ -20,6 +20,7 @@ This JavaScript library consists of mostly function shorteners, so if that is no
 
 **RELEASES**
 v5.0
+
 - Update
   - In order to access functions, using
   - ```javascript
@@ -47,6 +48,7 @@ v5.0
       ```
     - You also don't have to use a seperate function to find the ID.
 v4.0
+
 - New
   - Extra Text
     - Doggo JS switched to say Dogebork JS.
@@ -67,6 +69,7 @@ v4.0
       ```
     - But shorter.
 v3.0
+
 - New
   - RNG
     - Uses safer alternative, older version is LCG
@@ -83,6 +86,7 @@ v3.0
       lcg()
       ```
 v2.0
+
 - New
   - OS Time
     - ```javascript
@@ -100,6 +104,7 @@ v2.0
       But it does not return float values.
 
 v1.0
+
 - Basic Features
   - Fetch ID
     - ```javascript

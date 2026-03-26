@@ -19,6 +19,8 @@ A less annoying JS library.
 This JavaScript library consists of mostly function shorteners, so if that is not helpful towards your project, don't use this.
 
 **RELEASES**
+v6.0
+   just small bug fixes
 v5.0
 
 - Update

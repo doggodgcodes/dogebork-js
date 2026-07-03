@@ -19,6 +19,20 @@ A less annoying JS library.
 This JavaScript library consists of mostly function shorteners, so if that is not helpful towards your project, don't use this.
 
 **RELEASES**
+v7.0
+   - Updates
+     - Added
+       - Borkport
+         - ```javascript
+            Dogebork.borkport("jquery")
+           ```
+         - A library importer. Only imports four libraries.
+     - Removed
+       - Button On Click
+         - ```javascript
+            Dogebork.buttonOnClick("myButton")
+           ```
+         - Removed for being a broken function.
 v6.0
    just small bug fixes
 v5.0
@@ -48,7 +62,7 @@ v5.0
     - ```javascript
       Dogebork.buttonOnClick("myButton")
       ```
-    - You also don't have to use a seperate function to find the ID.
+    - You also don't have to use a separate function to find the ID.
 v4.0
 
 - New

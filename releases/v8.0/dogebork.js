@@ -29,6 +29,7 @@ class DogeborkClass {
             let a = document.createElement("script");
             a.type = "type/javascript";
             a.src = "https://cdn.jsdelivr.net/npm/jquery@4.0.0/dist/jquery.min.js";
+            document.head.appendChild(a);
         }
         else if (library == "7.css") {
             let a = document.createElement("link");

@@ -60,4 +60,3 @@ class DogeborkClass {
     }
 }
 const Dogebork = new DogeborkClass();
-Dogebork.print(Dogebork.randomInt(0, 10));

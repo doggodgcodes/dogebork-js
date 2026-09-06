@@ -16,9 +16,24 @@ A less annoying JS library.
 ***
 
 **Quick Info**
+
 This JavaScript library consists of mostly function shorteners, so if that is not helpful towards your project, don't use this.
 
 **RELEASES**
+
+v8.0
+   - Updates
+     - Added
+       - Random Integer
+         - ```javascript
+            Dogebork.randomInt(1,10)
+           ```
+     - Removed
+       - Doge
+         - You have to put Dogebork instead of Doge for code to work.
+       - Doggify
+       - OS Time
+
 v7.0
    - Updates
      - Added
@@ -33,8 +48,10 @@ v7.0
             Dogebork.buttonOnClick("myButton")
            ```
          - Removed for being a broken function.
+
 v6.0
    just small bug fixes
+
 v5.0
 
 - Update
@@ -63,6 +80,7 @@ v5.0
       Dogebork.buttonOnClick("myButton")
       ```
     - You also don't have to use a separate function to find the ID.
+
 v4.0
 
 - New
@@ -84,6 +102,7 @@ v4.0
       document.createElement()
       ```
     - But shorter.
+
 v3.0
 
 - New
@@ -101,6 +120,7 @@ v3.0
       ```javascript
       lcg()
       ```
+
 v2.0
 
 - New
